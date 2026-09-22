@@ -288,7 +288,7 @@
    "name": "Lead-source1",
    "no_copy": 0,
    "non_negative": 0,
-   "options": "Lead Source",
+   "options": "UTM Source",
    "owner": "Administrator",
    "permlevel": 0,
    "precision": "",
